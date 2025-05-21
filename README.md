@@ -1,2 +1,2 @@
 # Saloon-Webview-For-Skincare-Recommandation
-I develop this project in as my freelancing project
+This is a Glam the girl AI & NLP base recommandation system for skin care
