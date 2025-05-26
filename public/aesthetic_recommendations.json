@@ -1,0 +1,826 @@
+[
+  {
+    "description": "Use gentle cleansers like CeraVe Foaming Cleanser and moisturizers with hyaluronic acid. Incorporate salicylic acid for acne treatment and always apply sunscreen during the day to prevent further damage.",
+    "products": [
+      {
+        "name": "CeraVe Foaming Cleanser",
+        "link": "https://www.amazon.com/dp/B01MSSDEPK"
+      },
+      {
+        "name": "Cetaphil Gentle Skin Cleanser",
+        "link": "https://www.amazon.com/dp/B001ET7A7E"
+      },
+      {
+        "name": "The Ordinary Salicylic Acid 2% Solution",
+        "link": "https://www.sephora.com/product/salicylic-acid-2pct-solution-P436284"
+      },
+      {
+        "name": "COSRX Salicylic Acid Daily Gentle Cleanser",
+        "link": "https://www.amazon.com/dp/B00H87C5RU"
+      },
+      {
+        "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 60",
+        "link": "https://www.laroche-posay.us/sunscreen/anthelios-melt-in-milk-sunscreen-spf-60-883140034088.html"
+      }
+    ]
+  },
+  {
+    "description": "Apply glycolic acid at night to exfoliate and fade acne scars. Pair with niacinamide to brighten skin and reduce inflammation. Use vitamin C serum in the morning for added antioxidant protection.",
+    "products": [
+      {
+        "name": "The Ordinary Glycolic Acid 7% Toning Solution",
+        "link": "https://theordinary.deciem.com/product/rdn-glycolic-acid-7pct-toning-solution-240ml"
+      },
+      {
+        "name": "Goodal Vitamin C Serum",
+        "link": "https://www.sephora.com/product/vitamin-c-serum-P467877"
+      },
+      {
+        "name": "Glow Recipe Niacinamide Dew Drops",
+        "link": "https://www.glowrecipe.com/products/niacinamide-dew-drops"
+      },
+      {
+        "name": "Paula’s Choice Vitamin C Booster",
+        "link": "https://www.paulaschoice.com/vitamin-c-booster/776.html"
+      }
+    ]
+  },
+  {
+    "description": "Use hyaluronic acid followed by a ceramide-based moisturizer to restore skin barrier. Include gentle exfoliation once or twice a week to remove dead skin cells without irritation.",
+    "products": [
+      {
+        "name": "Dr. Jart+ Ceramidin Cream",
+        "link": "https://www.sephora.com/product/ceramidin-cream-P450013"
+      },
+      {
+        "name": "Isntree Hyaluronic Acid Toner",
+        "link": "https://www.amazon.com/dp/B07Q6TCQ7T"
+      },
+      {
+        "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+        "link": "https://www.amazon.com/dp/B07K76JGGQ"
+      },
+      {
+        "name": "CeraVe Moisturizing Cream",
+        "link": "https://www.amazon.com/dp/B00TTD9BRC"
+      }
+    ]
+  },
+  {
+    "description": "Double cleanse, tone with essence, and treat with serums like niacinamide and propolis for glowing skin. Finish with sunscreen during the day and a nourishing sleeping mask at night.",
+    "products": [
+      {
+        "name": "Beauty of Joseon Glow Serum",
+        "link": "https://www.beautyofjoseon.com/products/glow-serum"
+      },
+      {
+        "name": "Missha Time Revolution The First Treatment Essence",
+        "link": "https://www.amazon.com/dp/B07D9JHZKC"
+      },
+      {
+        "name": "Some By Mi Propolis Light Ampoule",
+        "link": "https://www.amazon.com/dp/B083RYFTJQ"
+      },
+      {
+        "name": "iUNIK Propolis Vitamin Synergy Serum",
+        "link": "https://www.amazon.com/dp/B07Z7TTSNK"
+      },
+      {
+        "name": "Laneige Water Sleeping Mask",
+        "link": "https://www.laneige.com/int/en/product/water-sleeping-mask.html"
+      }
+    ]
+  },
+  {
+    "description": "Apply broad-spectrum sunscreen with SPF 30 or higher every morning, even on cloudy days. Sunscreen helps prevent premature aging and protects against UV damage.",
+    "products": [
+      {
+        "name": "EltaMD UV Clear Facial Sunscreen Broad-Spectrum SPF 46",
+        "link": "https://www.eltamd.com/product/uv-clear-broad-spectrum-spf-46/"
+      },
+      {
+        "name": "Neutrogena Hydro Boost Water Gel Lotion SPF 30",
+        "link": "https://www.neutrogena.com/products/sun/face-sunscreens/hydro-boost-water-gel-lotion-spf-30/6811042.html"
+      },
+      {
+        "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 100",
+        "link": "https://www.laroche-posay.us/sunscreen/anthelios-melt-in-milk-sunscreen-spf-100-883140034095.html"
+      }
+    ]
+  },
+  {
+    "description": "Use a gentle exfoliant with lactic acid to brighten dull skin and improve texture. Avoid over-exfoliating to prevent irritation.",
+    "products": [
+      {
+        "name": "The Ordinary Lactic Acid 10% + HA",
+        "link": "https://theordinary.deciem.com/product/rdn-lactic-acid-10pct-ha-30ml"
+      },
+      {
+        "name": "Paula’s Choice 8% AHA Gel Exfoliant",
+        "link": "https://www.paulaschoice.com/8-aha-gel-exfoliant/763.html"
+      },
+      {
+        "name": "Drunk Elephant T.L.C. Framboos Glycolic Night Serum",
+        "link": "https://www.drunkelephant.com/products/tlc-framboos"
+      }
+    ]
+  },
+  {
+    "description": "For dry skin, use hydrating serums with glycerin or squalane and rich creams with ceramides to lock in moisture.",
+    "products": [
+      {
+        "name": "The Inkey List Squalane",
+        "link": "https://www.sephora.com/product/squalane-P462718"
+      },
+      {
+        "name": "CeraVe Healing Ointment",
+        "link": "https://www.amazon.com/dp/B00TTD9BRC"
+      },
+      {
+        "name": "Neutrogena Hydro Boost Gel-Cream",
+        "link": "https://www.neutrogena.com/products/skincare/neutrogena-hydro-boost-gel-cream-extra-dry-skin/6811043.html"
+      }
+    ]
+  },
+  {
+    "description": "Use retinol products at night to promote cell turnover and reduce fine lines and wrinkles. Start slow to avoid irritation.",
+    "products": [
+      {
+        "name": "The Ordinary Retinol 0.5% in Squalane",
+        "link": "https://theordinary.deciem.com/product/rdn-retinol-05pct-in-squalane-30ml"
+      },
+      {
+        "name": "Differin Adapalene Gel 0.1%",
+        "link": "https://www.amazon.com/dp/B07NQ9JPT9"
+      },
+      {
+        "name": "RoC Retinol Correxion Deep Wrinkle Night Cream",
+        "link": "https://www.amazon.com/dp/B003CFA7FW"
+      }
+    ]
+  },
+  {
+    "description": "For sensitive skin, choose fragrance-free, hypoallergenic products and avoid harsh scrubs or exfoliants.",
+    "products": [
+      {
+        "name": "Vanicream Moisturizing Cream",
+        "link": "https://www.vanicream.com/product/vanicream-moisturizing-cream"
+      },
+      {
+        "name": "La Roche-Posay Toleriane Hydrating Gentle Cleanser",
+        "link": "https://www.laroche-posay.us/toleriane-hydrating-gentle-cleanser-3337872417883.html"
+      },
+      {
+        "name": "Aveeno Ultra-Calming Daily Moisturizer SPF 30",
+        "link": "https://www.aveeno.com/products/ultra-calming-daily-moisturizer"
+      }
+    ]
+  },
+  {
+    "description": "For oily skin, use mattifying cleansers and lightweight, oil-free moisturizers. Incorporate clay masks weekly to control excess sebum and prevent breakouts.",
+    "products": [
+      {
+        "name": "Neutrogena Oil-Free Acne Wash",
+        "link": "https://www.neutrogena.com/products/skincare/neutrogena-oil-free-acne-wash/6811060.html"
+      },
+      {
+        "name": "La Roche-Posay Effaclar Mat Moisturizer",
+        "link": "https://www.laroche-posay.us/effaclar-mat-moisturizer-3337875589033.html"
+      },
+      {
+        "name": "Aztec Secret Indian Healing Clay",
+        "link": "https://www.amazon.com/dp/B0014P8L9W"
+      }
+    ]
+  },
+  {
+    "description": "Brighten and even out skin tone using vitamin C serums combined with exfoliating acids like mandelic acid, which is gentle yet effective.",
+    "products": [
+      {
+        "name": "Mad Hippie Vitamin C Serum",
+        "link": "https://www.madhippie.com/products/vitamin-c-serum"
+      },
+      {
+        "name": "The Ordinary Mandelic Acid 10% + HA",
+        "link": "https://theordinary.deciem.com/product/rdn-mandelic-acid-10pct-ha-30ml"
+      },
+      {
+        "name": "Ole Henriksen Truth Serum",
+        "link": "https://www.sephora.com/product/truth-serum-P254652"
+      }
+    ]
+  },
+  {
+    "description": "For combination skin, balance hydration and oil control with gel-based moisturizers and gentle exfoliation to maintain a healthy complexion.",
+    "products": [
+      {
+        "name": "Clinique Dramatically Different Hydrating Jelly",
+        "link": "https://www.clinique.com/product/1603/42825/moisturizers/dramatically-different-hydrating-jelly"
+      },
+      {
+        "name": "Paula’s Choice Skin Perfecting 2% BHA Liquid Exfoliant",
+        "link": "https://www.paulaschoice.com/skin-perfecting-2pct-bha-liquid-exfoliant/201.html"
+      },
+      {
+        "name": "Neutrogena Hydro Boost Water Gel",
+        "link": "https://www.neutrogena.com/products/skincare/neutrogena-hydro-boost-water-gel/6811043.html"
+      }
+    ]
+  },
+  {
+    "description": "Hydrate and soothe sun-damaged skin with aloe vera gels and antioxidant-rich moisturizers. Apply after sun exposure to calm redness.",
+    "products": [
+      {
+        "name": "Nature Republic Aloe Vera 92% Soothing Gel",
+        "link": "https://www.amazon.com/dp/B00OJXHKLG"
+      },
+      {
+        "name": "First Aid Beauty Ultra Repair Cream",
+        "link": "https://www.sephora.com/product/ultra-repair-cream-P286303"
+      },
+      {
+        "name": "Fresh Rose Deep Hydration Facial Toner",
+        "link": "https://www.fresh.com/us/rose-deep-hydration-facial-toner-1918.html"
+      }
+    ]
+  },
+  {
+    "description": "Target aging skin with peptides and antioxidants to boost collagen and reduce wrinkles. Use serums and creams specifically formulated for anti-aging benefits.",
+    "products": [
+      {
+        "name": "Olay Regenerist Micro-Sculpting Cream",
+        "link": "https://www.olay.com/en-us/skin-care-products/regenerist-micro-sculpting-cream"
+      },
+      {
+        "name": "The Inkey List Peptide Moisturizer",
+        "link": "https://www.sephora.com/product/peptide-moisturizer-P465347"
+      },
+      {
+        "name": "Drunk Elephant Protini Polypeptide Cream",
+        "link": "https://www.drunkelephant.com/products/protini"
+      }
+    ]
+  },
+  {
+    "description": "Calm redness and irritation with products containing centella asiatica and madecassoside, known for their healing and anti-inflammatory properties.",
+    "products": [
+      {
+        "name": "COSRX Centella Blemish Cream",
+        "link": "https://www.amazon.com/dp/B07K1MB9PQ"
+      },
+      {
+        "name": "Purito Centella Green Level Buffet Serum",
+        "link": "https://www.amazon.com/dp/B07RH9NVDX"
+      },
+      {
+        "name": "La Roche-Posay Cicaplast Baume B5",
+        "link": "https://www.laroche-posay.us/cicaplast-baume-b5-3337872419702.html"
+      }
+    ]
+  },
+  {
+    "description": "Maintain clear skin with gentle, fragrance-free cleansers and spot treatments containing benzoyl peroxide or tea tree oil for acne control.",
+    "products": [
+      {
+        "name": "PanOxyl Acne Foaming Wash Benzoyl Peroxide 10%",
+        "link": "https://www.amazon.com/dp/B001ET7D8W"
+      },
+      {
+        "name": "The Body Shop Tea Tree Oil",
+        "link": "https://www.thebodyshop.com/en-us/face/tea-tree-oil/p/p003764"
+      },
+      {
+        "name": "La Roche-Posay Effaclar Duo Acne Treatment",
+        "link": "https://www.laroche-posay.us/effaclar-duo-duo-acne-treatment-3337875592171.html"
+      }
+    ]
+  },
+  {
+    "description": "Boost skin hydration with face mists and serums containing rose water and glycerin. Perfect for refreshing skin throughout the day.",
+    "products": [
+      {
+        "name": "Herbivore Rose Hibiscus Hydrating Face Mist",
+        "link": "https://www.herbivorebotanicals.com/products/rose-hibiscus-hydrating-face-mist"
+      },
+      {
+        "name": "Mario Badescu Facial Spray with Aloe, Herbs and Rosewater",
+        "link": "https://www.mariobadescu.com/products/facial-spray-with-aloe-herbs-and-rosewater"
+      },
+      {
+        "name": "The Ordinary Hyaluronic Acid 2% + B5",
+        "link": "https://theordinary.deciem.com/product/rdn-hyaluronic-acid-2pct-b5-30ml"
+      }
+    ]
+  },
+  {
+    "description": "For sensitive and eczema-prone skin, use thick emollient creams with colloidal oatmeal and avoid potential irritants.",
+    "products": [
+      {
+        "name": "Aveeno Eczema Therapy Moisturizing Cream",
+        "link": "https://www.aveeno.com/products/eczema-therapy-moisturizing-cream"
+      },
+      {
+        "name": "CeraVe Eczema Soothing Creamy Oil",
+        "link": "https://www.cerave.com/skincare/eczema-soothing-creamy-oil"
+      },
+      {
+        "name": "Eucerin Eczema Relief Cream",
+        "link": "https://www.eucerinus.com/products/eczema-relief-cream"
+      }
+    ]
+  },
+  {
+    "description": "Exfoliate dead skin cells gently using enzyme-based exfoliants from fruits like papaya and pumpkin, ideal for sensitive skin types.",
+    "products": [
+      {
+        "name": "Peter Thomas Roth Pumpkin Enzyme Mask",
+        "link": "https://www.peterthomasroth.com/product/pumpkin-enzyme-mask/1063058.html"
+      },
+      {
+        "name": "Andalou Naturals Pumpkin Honey Glycolic Mask",
+        "link": "https://andalou.com/products/pumpkin-honey-glycolic-mask"
+      },
+      {
+        "name": "Tatcha The Rice Enzyme Powder",
+        "link": "https://www.tatcha.com/product/1619.html"
+      }
+    ]
+  },
+  [
+  {
+    "description": "Incorporate antioxidant-rich serums with ferulic acid and vitamin E alongside vitamin C to boost protection against environmental damage. Finish with a lightweight moisturizer and broad-spectrum SPF.",
+    "products": [
+      {
+        "name": "Skinceuticals C E Ferulic",
+        "link": "https://www.skinceuticals.com/c-e-ferulic-635494263008.html"
+      },
+      {
+        "name": "Paula’s Choice Resist Super Antioxidant Concentrate Serum",
+        "link": "https://www.paulaschoice.com/resist-super-antioxidant-concentrate-serum/778.html"
+      },
+      {
+        "name": "EltaMD UV Daily Broad-Spectrum SPF 40",
+        "link": "https://www.eltamd.com/product/uv-daily-broad-spectrum-spf-40/"
+      },
+      {
+        "name": "Neutrogena Hydro Boost Water Gel",
+        "link": "https://www.neutrogena.com/products/skincare/neutrogena-hydro-boost-water-gel/6811043.html"
+      }
+    ]
+  },
+  {
+    "description": "Use azelaic acid to calm redness, reduce pigmentation, and prevent acne. Pair with a gentle cleanser and a rich ceramide moisturizer for barrier repair.",
+    "products": [
+      {
+        "name": "The Ordinary Azelaic Acid Suspension 10%",
+        "link": "https://theordinary.deciem.com/product/rdn-azelaic-acid-suspension-10pct-30ml"
+      },
+      {
+        "name": "CeraVe Hydrating Facial Cleanser",
+        "link": "https://www.cerave.com/skincare/cleansers/hydrating-facial-cleanser"
+      },
+      {
+        "name": "Dr. Jart+ Ceramidin Cream",
+        "link": "https://www.sephora.com/product/ceramidin-cream-P450013"
+      }
+    ]
+  },
+  {
+    "description": "Adopt a calming night routine with oat extract and squalane to soothe and hydrate irritated skin. Avoid active ingredients at night for sensitive skin types.",
+    "products": [
+      {
+        "name": "First Aid Beauty Ultra Repair Cream",
+        "link": "https://www.sephora.com/product/ultra-repair-cream-P286303"
+      },
+      {
+        "name": "The Inkey List Squalane",
+        "link": "https://www.sephora.com/product/squalane-P462718"
+      },
+      {
+        "name": "Aveeno Calm + Restore Oat Gel Moisturizer",
+        "link": "https://www.aveeno.com/products/calm-restore-oat-gel-moisturizer"
+      }
+    ]
+  },
+  {
+    "description": "Add a brightening essence with fermented ingredients to enhance radiance and improve skin texture, followed by a nourishing sunscreen to protect the skin all day.",
+    "products": [
+      {
+        "name": "Missha Time Revolution The First Treatment Essence Rx",
+        "link": "https://www.misshaus.com/products/time-revolution-the-first-treatment-essence-rx"
+      },
+      {
+        "name": "Shiseido Urban Environment Oil-Free UV Protector SPF 42",
+        "link": "https://www.shiseido.com/urban-environment-oil-free-uv-protector-spf-42-1003.html"
+      }
+    ]
+  },
+  {
+    "description": "Use gentle enzyme exfoliants like papaya or pumpkin enzymes once a week to brighten skin and improve texture without irritation.",
+    "products": [
+      {
+        "name": "Tatcha The Rice Polish: Enzyme Powder",
+        "link": "https://www.tatcha.com/product/60235.html"
+      },
+      {
+        "name": "Drunk Elephant T.L.C. Sukari Babyfacial",
+        "link": "https://www.drunkelephant.com/products/tlc-sukari-babyfacial"
+      }
+    ]
+  },
+  {
+    "description": "For skin prone to rosacea, use anti-inflammatory ingredients like licorice root extract and avoid thermal water sprays containing irritants.",
+    "products": [
+      {
+        "name": "La Roche-Posay Rosaliac AR Intense",
+        "link": "https://www.laroche-posay.us/rosaliac-ar-intense-3337875501034.html"
+      },
+      {
+        "name": "Paula’s Choice Calm Redness Relief Repairing Serum",
+        "link": "https://www.paulaschoice.com/calm-redness-relief-repairing-serum/767.html"
+      }
+    ]
+  },
+  {
+    "description": "Use a hydrating mist with antioxidants during the day to refresh skin and add a protective layer against pollution.",
+    "products": [
+      {
+        "name": "Herbivore Botanicals Jasmine Green Tea Balancing Toner",
+        "link": "https://www.herbivorebotanicals.com/products/jasmine-green-tea-balancing-toner"
+      },
+      {
+        "name": "Caudalie Beauty Elixir",
+        "link": "https://www.caudalie.com/beauty-elixir"
+      }
+    ]
+  },
+  {
+    "description": "Apply a sleeping pack rich in peptides and niacinamide to nourish and repair skin overnight, improving elasticity and tone.",
+    "products": [
+      {
+        "name": "Laneige Lip Sleeping Mask",
+        "link": "https://www.laneige.com/int/en/product/lip-sleeping-mask.html"
+      },
+      {
+        "name": "Cosrx Advanced Snail 92 All In One Cream",
+        "link": "https://www.cosrx.com/products/advanced-snail-92-all-in-one-cream"
+      }
+    ]
+  },
+  [
+  {
+    "description": "Maintain clear skin with gentle, fragrance-free cleansers and spot treatments containing benzoyl peroxide or sulfur to target acne.",
+    "products": [
+      {
+        "name": "La Roche-Posay Effaclar Medicated Gel Cleanser",
+        "link": "https://www.laroche-posay.us/effaclar-medicated-gel-cleanser-3337875589316.html"
+      },
+      {
+        "name": "Neutrogena On-The-Spot Acne Treatment",
+        "link": "https://www.neutrogena.com/products/skincare/neutrogena-on-the-spot-acne-treatment/6811231.html"
+      },
+      {
+        "name": "Mario Badescu Drying Lotion",
+        "link": "https://www.mariobadescu.com/products/drying-lotion"
+      }
+    ]
+  },
+  {
+    "description": "Incorporate antioxidants like resveratrol and ferulic acid with vitamin C to enhance skin protection and brighten complexion.",
+    "products": [
+      {
+        "name": "SkinCeuticals C E Ferulic",
+        "link": "https://www.skinceuticals.com/c-e-ferulic-635494263008.html"
+      },
+      {
+        "name": "Timeless Resveratrol Serum",
+        "link": "https://www.timelessha.com/products/resveratrol-serum"
+      },
+      {
+        "name": "Paula’s Choice Super Antioxidant Concentrate Serum",
+        "link": "https://www.paulaschoice.com/super-antioxidant-concentrate-serum/720.html"
+      }
+    ]
+  },
+  {
+    "description": "For skin prone to redness and rosacea, use calming cleansers and moisturizers with ingredients like azelaic acid and niacinamide.",
+    "products": [
+      {
+        "name": "Paula’s Choice 10% Azelaic Acid Booster",
+        "link": "https://www.paulaschoice.com/10-azelaic-acid-booster/776.html"
+      },
+      {
+        "name": "Avene Antirougeurs Calm Soothing Repair Mask",
+        "link": "https://www.aveneusa.com/antirougeurs-calm-soothing-repair-mask"
+      },
+      {
+        "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+        "link": "https://theordinary.deciem.com/product/rdn-niacinamide-10pct-zinc-1pct-30ml"
+      }
+    ]
+  },
+  {
+    "description": "Use hydrating mists and facial waters throughout the day to refresh skin and maintain moisture balance.",
+    "products": [
+      {
+        "name": "Evian Facial Spray Mineral Water",
+        "link": "https://www.evian.com/en_us/facial-spray"
+      },
+      {
+        "name": "Avene Thermal Spring Water",
+        "link": "https://www.aveneusa.com/thermal-spring-water"
+      },
+      {
+        "name": "Mario Badescu Facial Spray with Aloe, Herbs and Rosewater",
+        "link": "https://www.mariobadescu.com/products/facial-spray-with-aloe-herbs-and-rosewater"
+      }
+    ]
+  },
+  {
+    "description": "For oily and acne-prone skin, consider using niacinamide to regulate sebum and reduce pore size alongside clay-based masks.",
+    "products": [
+      {
+        "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+        "link": "https://theordinary.deciem.com/product/rdn-niacinamide-10pct-zinc-1pct-30ml"
+      },
+      {
+        "name": "Aztec Secret Indian Healing Clay",
+        "link": "https://www.amazon.com/dp/B0014P8L9W"
+      },
+      {
+        "name": "Origins Clear Improvement Active Charcoal Mask",
+        "link": "https://www.origins.com/product/15315/skin-care/clear-improvement/active-charcoal-mask-to-clear-pores"
+      }
+    ]
+  },
+  [
+  {
+    "description": "Maintain clear skin with gentle, fragrance-free cleansers and spot treatments containing benzoyl peroxide to reduce acne-causing bacteria.",
+    "products": [
+      {
+        "name": "PanOxyl Acne Foaming Wash Benzoyl Peroxide 10%",
+        "link": "https://www.amazon.com/dp/B000052Y3O"
+      },
+      {
+        "name": "Neutrogena On-the-Spot Acne Treatment",
+        "link": "https://www.amazon.com/dp/B000052Y7K"
+      },
+      {
+        "name": "CeraVe Resurfacing Retinol Serum",
+        "link": "https://www.amazon.com/dp/B07Q8Y4Y44"
+      }
+    ]
+  },
+  {
+    "description": "Use vitamin E-rich oils at night to nourish and repair dry or damaged skin, supporting skin regeneration and softness.",
+    "products": [
+      {
+        "name": "Jason Vitamin E Oil",
+        "link": "https://www.amazon.com/dp/B000052Y1Z"
+      },
+      {
+        "name": "The Body Shop Vitamin E Overnight Serum-in-Oil",
+        "link": "https://www.thebodyshop.com/en-us/face/serums/vitamin-e-overnight-serum-in-oil/p/p003709"
+      }
+    ]
+  },
+  {
+    "description": "Combat hyperpigmentation with products containing alpha arbutin and kojic acid for brighter, more even-toned skin.",
+    "products": [
+      {
+        "name": "The Ordinary Alpha Arbutin 2% + HA",
+        "link": "https://theordinary.deciem.com/product/rdn-alpha-arbutin-2pct-ha-30ml"
+      },
+      {
+        "name": "Koji White Kojic Acid Soap",
+        "link": "https://www.amazon.com/dp/B002GX8E4S"
+      }
+    ]
+  },
+  {
+    "description": "Balance oily and acne-prone skin with tea tree oil cleansers and spot treatments to reduce inflammation and prevent new blemishes.",
+    "products": [
+      {
+        "name": "The Body Shop Tea Tree Oil",
+        "link": "https://www.thebodyshop.com/en-us/face/face-serums/tea-tree-oil/p/p001037"
+      },
+      {
+        "name": "Desert Essence Thoroughly Clean Face Wash with Tea Tree Oil",
+        "link": "https://www.amazon.com/dp/B000CNDXGU"
+      }
+    ]
+  },
+  {
+    "description": "Strengthen skin barrier with niacinamide and ceramide-enriched moisturizers to reduce sensitivity and improve hydration.",
+    "products": [
+      {
+        "name": "CeraVe PM Facial Moisturizing Lotion",
+        "link": "https://www.amazon.com/dp/B00365DABC"
+      },
+      {
+        "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+        "link": "https://theordinary.deciem.com/product/rdn-niacinamide-10pct-zinc-1pct-30ml"
+      }
+    ]
+  },
+  {
+    "description": "Use azelaic acid products to reduce redness, treat rosacea, and gently exfoliate for smoother skin.",
+    "products": [
+      {
+        "name": "The Ordinary Azelaic Acid Suspension 10%",
+        "link": "https://theordinary.deciem.com/product/rdn-azelaic-acid-suspension-10pct-30ml"
+      },
+      {
+        "name": "Paula’s Choice 10% Azelaic Acid Booster",
+        "link": "https://www.paulaschoice.com/10-azelaic-acid-booster/777.html"
+      }
+    ]
+  },
+  {
+    "description": "Use hydrating mists and facial waters infused with rose or chamomile to refresh and soothe the skin throughout the day.",
+    "products": [
+      {
+        "name": "Herbivore Rose Hibiscus Hydrating Face Mist",
+        "link": "https://www.herbivorebotanicals.com/products/rose-hibiscus-hydrating-face-mist"
+      },
+      {
+        "name": "Mario Badescu Facial Spray with Aloe, Herbs and Rosewater",
+        "link": "https://www.mariobadescu.com/products/facial-spray-with-aloe-herbs-and-rosewater"
+      }
+    ]
+  },
+  {
+    "description": "For enlarged pores, use clay masks containing kaolin and bentonite once or twice a week to deeply cleanse and minimize pores.",
+    "products": [
+      {
+        "name": "Aztec Secret Indian Healing Clay",
+        "link": "https://www.amazon.com/dp/B0014P8L9W"
+      },
+      {
+        "name": "L'Oréal Paris Pure-Clay Mask",
+        "link": "https://www.lorealparisusa.com/products/skin-care/purifying-clay-mask.aspx"
+      }
+    ]
+  },
+  {
+    "description": "Incorporate antioxidant-rich green tea extracts into your skincare routine to help protect skin from environmental damage.",
+    "products": [
+      {
+        "name": "Innisfree Green Tea Seed Serum",
+        "link": "https://www.innisfree.com/us/en/product/productView.do?prdSeq=20581"
+      },
+      {
+        "name": "Biossance Squalane + Antioxidant Cleansing Oil",
+        "link": "https://biossance.com/products/squalane-antioxidant-cleansing-oil"
+      }
+    ]
+  },
+  {
+    "description": "Use soothing calendula-infused creams and balms for calming irritated or inflamed skin, especially after sun exposure.",
+    "products": [
+      {
+        "name": "Kiehl’s Calendula Herbal Extract Alcohol-Free Toner",
+        "link": "https://www.kiehls.com/calendula-herbal-extract-alcohol-free-toner/769.html"
+      },
+      {
+        "name": "Weleda Calendula Face Cream",
+        "link": "https://www.weleda.com/products/calendula-face-cream"
+      }
+    ]
+  },
+  {
+    "description": "Apply sleeping masks enriched with antioxidants and hydrators overnight to deeply nourish and revitalize skin.",
+    "products": [
+      {
+        "name": "Laneige Water Sleeping Mask",
+        "link": "https://www.laneige.com/int/en/product/water-sleeping-mask.html"
+      },
+      {
+        "name": "Glow Recipe Watermelon Glow Sleeping Mask",
+        "link": "https://www.glowrecipe.com/products/watermelon-glow-sleeping-mask"
+      }
+    ]
+  },
+  {
+    "description": "Protect skin from blue light damage caused by screens by using antioxidant serums with ingredients like niacinamide and vitamin C.",
+    "products": [
+      {
+        "name": "Murad Environmental Shield Vita-C Glycolic Brightening Serum",
+        "link": "https://www.murad.com/product/vita-c-glycolic-brightening-serum/"
+      },
+      {
+        "name": "Paula’s Choice Super Antioxidant Concentrate Serum",
+        "link": "https://www.paulaschoice.com/super-antioxidant-concentrate-serum/878.html"
+      }
+    ]
+  },
+  {
+    "description": "Incorporate facial oils such as rosehip or marula to restore radiance and improve skin texture, especially in dry or mature skin types.",
+    "products": [
+      {
+        "name": "The Ordinary 100% Organic Cold-Pressed Rose Hip Seed Oil",
+        "link": "https://theordinary.deciem.com/product/rdn-rose-hip-seed-oil-30ml"
+      },
+      {
+        "name": "Josie Maran 100% Pure Argan Oil",
+        "link": "https://www.josiemarancosmetics.com/products/argan-oil"
+      }
+    ]
+  },
+  {
+    "description": "Use gentle eye creams with peptides and caffeine to reduce puffiness, dark circles, and fine lines around the eyes.",
+    "products": [
+      {
+        "name": "The Inkey List Caffeine Eye Cream",
+        "link": "https://www.sephora.com/product/caffeine-eye-cream-P463378"
+      },
+      {
+        "name": "Kiehl’s Creamy Eye Treatment with Avocado",
+        "link": "https://www.kiehls.com/creamy-eye-treatment-with-avocado/155.html"
+      }
+    ]
+  },
+  {
+    "description": "For nighttime hydration, apply rich creams containing shea butter and ceramides to deeply moisturize and repair skin while you sleep.",
+    "products": [
+      {
+        "name": "CeraVe Skin Renewing Night Cream",
+        "link": "https://www.cerave.com/skincare/moisturizers/skin-renewing-night-cream"
+      },
+      {
+        "name": "First Aid Beauty Ultra Repair Cream",
+        "link": "https://www.sephora.com/product/ultra-repair-cream-P286303"
+      }
+    ]
+  },
+  {
+    "description": "Add facial mists containing hyaluronic acid and rose water to refresh and hydrate skin throughout the day.",
+    "products": [
+      {
+        "name": "Herbivore Rose Hibiscus Hydrating Face Mist",
+        "link": "https://www.herbivorebotanicals.com/products/rose-hibiscus-hydrating-face-mist"
+      },
+      {
+        "name": "Mario Badescu Facial Spray with Aloe, Herbs and Rosewater",
+        "link": "https://www.mariobadescu.com/products/facial-spray-with-aloe-herbs-and-rosewater"
+      }
+    ]
+  },
+  {
+    "description": "Incorporate a gentle exfoliating toner with glycolic acid to promote cell turnover and improve skin texture.",
+    "products": [
+      {
+        "name": "Pixi Glow Tonic",
+        "link": "https://www.pixibeauty.com/products/glow-tonic"
+      },
+      {
+        "name": "The Ordinary Glycolic Acid 7% Toning Solution",
+        "link": "https://theordinary.deciem.com/product/rdn-glycolic-acid-7pct-toning-solution-240ml"
+      }
+    ]
+  },
+  {
+    "description": "Apply a hydrating serum with hyaluronic acid to boost skin moisture and plumpness throughout the day.",
+    "products": [
+      {
+        "name": "The Ordinary Hyaluronic Acid 2% + B5",
+        "link": "https://theordinary.deciem.com/product/rdn-hyaluronic-acid-2pct-b5-30ml"
+      },
+      {
+        "name": "Neutrogena Hydro Boost Hydrating Serum",
+        "link": "https://www.neutrogena.com/products/skincare/neutrogena-hydro-boost-hydrating-serum/6811041.html"
+      }
+    ]
+  },
+  {
+    "description": "Use moisturizing sunscreens with broad-spectrum SPF 30+ daily to protect against UV damage and prevent premature aging.",
+    "products": [
+      {
+        "name": "EltaMD UV Clear Broad-Spectrum SPF 46",
+        "link": "https://eltamd.com/products/uv-clear-broad-spectrum-spf-46"
+      },
+      {
+        "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 100",
+        "link": "https://www.laroche-posay.us/sunscreen/anthelios-melt-in-milk-sunscreen-spf-100-3337872410919.html"
+      }
+    ]
+  },
+  {
+    "description": "For dull skin, use brightening vitamin C serums combined with moisturizing ingredients to restore glow and vitality.",
+    "products": [
+      {
+        "name": "SkinCeuticals C E Ferulic",
+        "link": "https://www.skinceuticals.com/c-e-ferulic-635494263008.html"
+      },
+      {
+        "name": "Drunk Elephant C-Firma Day Serum",
+        "link": "https://www.drunkelephant.com/products/c-firma-day-serum"
+      }
+    ]
+  }
+]
+
+]
+
+]
+]
